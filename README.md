@@ -24,7 +24,14 @@ A simple web application to track income and expenses. Users can register, login
 5. Run in browser: `http://localhost/finance_project`
 
 ## 📸 Screenshots
-(Add screenshots here later)
+### Login Page
+![Login](login.png)
+
+### Register Page
+![Register](register.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
 
 ## 👨‍💻 Author
-Your Name
+SAKSHI CN
