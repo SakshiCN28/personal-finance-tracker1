@@ -22,6 +22,9 @@ A simple web application to track income and expenses. Users can register, login
 3. Copy project folder to `htdocs`
 4. Open phpMyAdmin and import database
 5. Run in browser: `http://localhost/finance_project`
+6. To open phpmyadmin: 'http://localhost/phpmyadmin'
+7. To register: 'http://localhost/finance_project/register.php'
+8. To login: 'http://localhost/finance_project/login.php'
 
 ## 📸 Screenshots
 ### Login Page
