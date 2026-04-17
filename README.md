@@ -33,5 +33,8 @@ A simple web application to track income and expenses. Users can register, login
 ### Dashboard
 ![Dashboard](dashboard.png)
 
+### How transcation deatails are stored in phpmyadmin
+![transcations](transcationsDeatailsINphp.png)
+
 ## 👨‍💻 Author
 SAKSHI CN
